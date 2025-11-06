@@ -16,9 +16,24 @@ Heute habe ich im Modul 324 (DevOps) das Portfolio fertiggestellt und die Handlu
 
 ## 24.10.2025
 
-- [ ] Python Kurs
-- [ ] Nested loops
-- [ ] Lists, sets and tuples
-- [ ] shopping cart program
+- [x] Python Kurs
+- [x] Nested loops
+- [x] Lists, sets and tuples
+- [x] shopping cart program
+
+Heute habe ich im Python Kurs viel dazugelernt. Besonders das Arbeiten mit verschachtelten Schleifen sowie mit Listen, Sets und Tupeln hat mir geholfen, Daten besser zu strukturieren und zu verarbeiten. Das shopping cart Programm war eine gute Übung, um das Gelernte praktisch anzuwenden. Ich habe gemerkt, dass ich komplexere Aufgaben mittlerweile viel besser verstehe und sicherer im Umgang mit Python werde. Insgesamt war es ein produktiver und motivierender Tag.
+
+## 30.10.2025
+
+- [x] Bewerbungen schreiben
+- [ ] Python Kurs wenn Zeit bleibt.
+
+Heute habe ich an meinen Bewerbungen gearbeitet und versucht, jede möglichst individuell und überzeugend zu gestalten. Dabei habe ich gemerkt, wie wichtig eine klare Struktur und präzise Formulierungen sind, um einen guten Eindruck zu hinterlassen. Obwohl ich den Python Kurs heute nicht mehr geschafft habe, bin ich zufrieden mit meinem Fortschritt. {50 Wörter}
+
+## 06.11.2025
+
+- [ ] Bewerbungen schreiben
+- [ ] Eigenes Projekt
 
 Heute habe ich...
+
