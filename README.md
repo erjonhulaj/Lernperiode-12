@@ -32,8 +32,14 @@ Heute habe ich an meinen Bewerbungen gearbeitet und versucht, jede möglichst in
 
 ## 06.11.2025
 
+- [x] Bewerbungen schreiben
+- [x] Eigenes Projekt
+
+Heute habe ich den ersten Schritt in meinem CodeHeaven-Projekt gemacht und mich weiter Beworben. Ich habe die Entwicklungsumgebung eingerichtet, FastAPI vorbereitet und mir das grundlegende Ziel des Projekts klar gemacht: ein Tool zu bauen, das mir hilft, Python wirklich zu verstehen. Der Start hat mir gezeigt, wie wichtig es ist, bewusst und langsam vorzugehen. Ich merke, dass der Aufbau eines eigenen Projekts mir Struktur gibt und mir hilft, aktiv mitzudenken. {70 Wörter}
+
+## 14.11.2025
+
 - [ ] Bewerbungen schreiben
 - [ ] Eigenes Projekt
 
 Heute habe ich...
-
