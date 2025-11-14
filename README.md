@@ -39,7 +39,14 @@ Heute habe ich den ersten Schritt in meinem CodeHeaven-Projekt gemacht und mich 
 
 ## 14.11.2025
 
+- [x] Bewerbungen schreiben
+- [x] Eigenes Projekt
+
+Heute habe ich weitere Bewerbungen verschickt und an meinem CodeHeaven-Projekt weitergearbeitet. Ich habe die bestehenden FastAPI Routen verbessert, erste Analysefunktionen vorbereitet und getestet, wie Daten durch das Backend fliessen. Dabei ging es vor allem darum, den Code klar zu strukturieren und die Grundlagen für die spätere Code-Analyse zu legen. Eine kleine Herausforderung war es, neue Teile sauber in das bestehende System einzubauen, aber Schritt für Schritt funktionierte es gut und ich sehe deutlichen Fortschritt. {74 Wörter}
+
+## 21.11.2025
+
 - [ ] Bewerbungen schreiben
-- [ ] Eigenes Projekt
+- [ ] CodeHeaven logik erweitern
 
 Heute habe ich...
