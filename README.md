@@ -47,7 +47,7 @@ Heute habe ich weitere Bewerbungen verschickt und an meinem CodeHeaven-Projekt w
 ## 21.11.2025
 
 - [ ] Bewerbungen schreiben
-- [ ] CodeHeaven logik erweitern
-- [ ] Am eigenen Server arbeiten für mein Zuhause (Homelab)
+- [x] CodeHeaven logik erweitern
+- [x] Am eigenen Server arbeiten für mein Zuhause (Homelab)
 
 Heute habe ich meinen Fokus stärker auf mein CodeHeaven-Projekt und mein Homelab gelegt, weil ich momentan noch auf Rückmeldungen zu meinen Bewerbungen warte. Dadurch hatte ich mehr Ruhe, mich auf die technischen Aufgaben zu konzentrieren. Beim Projekt habe ich die Logik weiterentwickelt und mit dem AST-Modul gearbeitet. Zusätzlich habe ich an meinem eigenen Windows-Server gearbeitet und Benutzer, VPN-Zugriff sowie eine VM eingerichtet. Das gibt mir auch einen Einblick, wie Systeme in Firmen aufgebaut sind und wie man professionell arbeitet. {79 Wörter}
