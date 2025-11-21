@@ -48,5 +48,6 @@ Heute habe ich weitere Bewerbungen verschickt und an meinem CodeHeaven-Projekt w
 
 - [ ] Bewerbungen schreiben
 - [ ] CodeHeaven logik erweitern
+- [ ] Am eigenen Server arbeiten für mein Zuhause (Homelab)
 
 Heute habe ich...
