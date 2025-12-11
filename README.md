@@ -54,8 +54,24 @@ Heute habe ich meinen Fokus stärker auf mein CodeHeaven-Projekt und mein Homela
 
 ## 28.11.2025
 
-- [ ] Portfolio Webseite umgestalten.
-- [ ] Mit react erneut aufbauen.
+- [x] Portfolio Webseite umgestalten.
+- [x] Mit react erneut aufbauen.
+- [x] Homepage Design zeichnen
+- [x] Homepage layout beginnen
 
+Ich habe mein Portfolio klarer und moderner gemacht. Das erneute Aufbauen mit React hat mir gezeigt, wie wichtig eine saubere Struktur ist. Das Zeichnen des Homepage-Designs hat meine Ideen geschärft, und der Start des Layouts fühlte sich wie ein guter Schritt nach vorne an. Insgesamt war der Tag produktiv, weil ich eine klare Richtung gefunden habe und meine Vision sichtbarer wurde. {61 Wörter}
+
+## 05.12.2025
+
+- [x] Projects Seiten
+- [x] Button auf MIDI keyboard Bild erstellen
+- [x] MIDI keyboard Seite designen und bauen
+- [x] Button auf Laptop Bild erstellen
+
+Heute lag der Fokus auf den einzelnen Seiten. Ich habe gemerkt, dass Elemente wie Buttons auf Bildern das ganze Portfolio lebendiger machen. Die Planung und das Design für Seiten bis jetzt haben mir gezeigt, wo noch Details fehlen, aber auch, dass ich auf dem richtigen Weg bin. Es fühlt sich gut an, wenn alles langsam Form annimmt und bald fertig ist. {61 Wörter}
+
+## 12.12.2025
+
+- [ ] M321 LB arbeiten
 
 Heute habe ich...
