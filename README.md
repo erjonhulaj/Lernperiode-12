@@ -75,3 +75,10 @@ Heute lag der Fokus auf den einzelnen Seiten. Ich habe gemerkt, dass Elemente wi
 - [x] M321 LB arbeiten
 
 Heute habe ich an der M321-Leistungsbeurteilung gearbeitet. Ich habe konkret an den Lernzielen weitergeschrieben und meine bestehenden Inhalte ergänzt. Dabei ging es vor allem um Microservices, das API-Gateway und CQRS, die ich anhand meines Projekts beschrieben habe. Ich habe meine Screenshots überprüft und angepasst, damit sie genau zu den beschriebenen Schritten passen und nachvollziehbar sind. Ich habe ausserdem kontrolliert, ob alle Teile logisch aufeinander aufbauen und nichts Wichtiges fehlt. {69 Wörter}
+
+## 19.12.2025
+
+- [ ] Bewerbungen schreiben
+- [ ] CodeHeaven
+
+Heute habe ich...
