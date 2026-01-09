@@ -78,7 +78,7 @@ Heute habe ich an der M321-Leistungsbeurteilung gearbeitet. Ich habe konkret an 
 
 ## 19.12.2025
 
-- [ ] Bewerbungen schreiben
-- [ ] CodeHeaven
+- [x] Bewerbungen schreiben
+- [x] CodeHeaven
 
-Heute habe ich...
+Heute habe ich weiter Bewerbungen geschrieben und intensiv an CodeHeaven gearbeitet. Bei den Bewerbungen habe ich gemerkt, dass mir das Formulieren inzwischen leichter fällt und ich strukturierter vorgehe. Im Projekt habe ich bestehende Funktionen erweitert und an der Logik für die Code-Analyse weitergearbeitet. Eine Herausforderung war es, Fehler im eigenen Code zu finden, aber genau daraus habe ich viel gelernt. {60 Wörter}
